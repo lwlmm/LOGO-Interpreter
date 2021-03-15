@@ -1,0 +1,5 @@
+@I added the function of rainbow gradient color 
+on the basis of the original lines, 
+using the counter and the corresponding rgb adjustment 
+to achieve an endless loop from red to purple 
+and then back and forth.

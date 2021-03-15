@@ -1,0 +1,6 @@
+BEGIN
+    ONE
+    GOOG
+    NOUGHT
+    ONE
+END

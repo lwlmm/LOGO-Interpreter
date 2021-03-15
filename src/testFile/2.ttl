@@ -1,0 +1,29 @@
+{
+    FD 5
+    RT 10
+    FD 5
+    RT 10
+    FD 5
+    RT 10
+    FD 5
+    RT 10
+    FD 5
+    RT 10
+    FD 5
+    RT 10
+    FD 5
+    RT 10
+    FD 5
+    RT 10
+    FD 5
+    RT 10
+    FD 5
+    RT 10
+    FD 5
+    RT 10
+    FD 5
+    RT 10
+    FD 5
+    RT 10
+    FD 5
+}

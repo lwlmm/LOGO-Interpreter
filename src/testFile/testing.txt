@@ -1,0 +1,16 @@
+@I've written a function called myAlert to report errors
+
+@Program are saved separately into smallest block so that
+I can check every block by using turtle->words[blockcounter]
+and return line number by using turtle->linecounter
+
+@Since this is an interpretor, each grammar test can only
+Synchronize with program operation. There's no big function 
+testParser(). only something like numberChecker() or loopCheck()
+
+@I strictly follow the steps required by the question to write 
+the program, so parser.c and testInterpretor.c and the corresponding 
+.h files are not very complete, which shows the evolution of my program
+
+@Most routine grammar tests are finished in the simplified parser and 
+other complex tests like loop or polish check are in extension program
